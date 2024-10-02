@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Jane Doe!
+# 👋 Hello, I'm Mursid Hossen!
 
 🔭 I’m currently working on **Open-Source Projects**  
-🌱 I’m learning **Rust, Machine Learning**  
-💬 Ask me about **JavaScript, Python, Web Development**  
-⚡ Fun fact: I love hiking and painting!
+🌱 I’m learning **MERN, DSA**  
+💬 Ask me about **JavaScript, C++, Web Development**  
+⚡ Fun fact: I love Mountains and poetry!
 
 ---
 
