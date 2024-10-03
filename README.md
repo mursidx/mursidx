@@ -121,6 +121,21 @@ test
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mursidx.visitor-badge)
 
+## 🎵 My Favorite Song
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=1234567890)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mursidx&style=for-the-badge&color=brightgreen)
+
+---
+
+## 🏆 GitHub Achievements
+- **Arctic Code Vault Contributor**
+- **Open Source Contributor**
+- **First Pull Request Merged**
+
+
 ---
 
 👀 Profile Views:  
