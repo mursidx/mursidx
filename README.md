@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mursid Hossen!
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF5733&lines=MERN+Stack+Developer;Open+Source+Enthusiast;Web+Development+Lover;Learning+Data+Structures+%26+Algorithms" alt="Typing SVG" />
 </p>
 
