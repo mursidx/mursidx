@@ -79,7 +79,47 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
 
+---
+test
 
+## ✨ Inspirational Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎧 Recently Played on Spotify
+[![Spotify](https://novatorem-mursidx.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
+
+
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+
+![GitHub Followers](https://img.shields.io/github/followers/mursidx?style=social)
+
+
+## ⏳ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+## 🖥️ My Development Setup
+![OS](https://img.shields.io/badge/macOS-Big%20Sur-blue)
+![Code Editor](https://img.shields.io/badge/Editor-VS%20Code-blue)
+![Terminal](https://img.shields.io/badge/Shell-zsh-blue)
+![Theme](https://img.shields.io/badge/Theme-Dracula-blue)
+
+
+## 🏆 My GitHub Achievements
+
+![GitHub Achievements](https://github.com/acct/github-achievements)
+
+
+## ✍️ Latest Blog Posts
+
+- [How to build a full-stack application](https://yourblog.com/post1)
+- [Learning Data Structures with C++](https://yourblog.com/post2)
+
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mursidx.visitor-badge)
 
 ---
 
