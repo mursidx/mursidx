@@ -83,9 +83,7 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 
 ## 🎵 My Favorite Song
 
-<p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VjIjW4GlUZAMYd2vXMi3b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</p>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=1234567890)
 
 
 
