@@ -86,31 +86,12 @@ test
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎧 Recently Played on Spotify
-[![Spotify](https://novatorem-mursidx.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
-
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/mursidx?style=social)
 
-
-## ⏳ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-## 🖥️ My Development Setup
-![OS](https://img.shields.io/badge/macOS-Big%20Sur-blue)
-![Code Editor](https://img.shields.io/badge/Editor-VS%20Code-blue)
-![Terminal](https://img.shields.io/badge/Shell-zsh-blue)
-![Theme](https://img.shields.io/badge/Theme-Dracula-blue)
-
-
-## 🏆 My GitHub Achievements
-
-![GitHub Achievements](https://github.com/acct/github-achievements)
 
 
 ## ✍️ Latest Blog Posts
@@ -119,24 +100,7 @@ test
 - [Learning Data Structures with C++](https://yourblog.com/post2)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mursidx.visitor-badge)
 
-## 🎵 My Favorite Song
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=1234567890)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mursidx&style=for-the-badge&color=brightgreen)
 
----
-
-## 🏆 GitHub Achievements
-- **Arctic Code Vault Contributor**
-- **Open Source Contributor**
-- **First Pull Request Merged**
-
-
----
-
-👀 Profile Views:  
-![Profile Views](https://komarev.com/ghpvc/?username=mursidx&color=blue)
