@@ -43,12 +43,13 @@ I'm a passionate **MERN Stack Developer in Training** from Bangladesh. I enjoy w
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mursidx&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Mursid's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursidx&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mursidx&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Mursid's GitHub stats" style="max-width:100%;"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mursidx&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mursidx&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width:100%;"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mursidx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="max-width:100%;"/>
 </div>
 
 ---
