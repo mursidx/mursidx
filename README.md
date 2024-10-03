@@ -79,12 +79,6 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
 
----
-
-## 🎵 My Favorite Song
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=1234567890)
-
 
 
 ---
