@@ -67,18 +67,6 @@ I'm a passionate **MERN Stack Developer in Training** from Bangladesh. I enjoy w
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mursidx&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mursidx&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
-</p>
-
----
-
-## 🌟 3D Contributions Calendar
-
-<p align="center">
-  <img src="https://github.com/mursidx/skyline/blob/main/output/github-skyline.png" alt="3D Skyline of Contributions" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -114,9 +102,3 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 
 👀 **Profile Views**:  
 ![Profile Views](https://komarev.com/ghpvc/?username=mursidx&color=blue)
-
----
-
-## 🎵 Music Vibes
-
-[![Spotify](https://novatorem-ozhan.vercel.app/api/spotify)](https://open.spotify.com/user/spotify_username)
