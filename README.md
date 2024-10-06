@@ -22,10 +22,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer in Training** from Bangladesh, focusing on creating modern web applications.  
+I'm a **MERN Stack Developer in Training** , focusing on creating modern and creative web applications.  
 Currently, I am learning about:
 
 - **MERN Stack** (MongoDB, Express, React, Node.js)
+- **Creative Development** 
 - **Data Structures & Algorithms**
 - Building full-stack web applications
 
