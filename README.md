@@ -20,34 +20,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **MERN Stack Developer in Training** , focusing on creating modern and creative web applications.  
-Currently, I am learning about:
-
-- **MERN Stack** (MongoDB, Express, React, Node.js)
-- **Creative Development** 
-- **Data Structures & Algorithms**
-- Building full-stack web applications
-
-I am also fascinated by the mountains (Pahar) and express my thoughts through **Poetry**. Let's talk about tech, nature, or creativity anytime!
-
----
-
-## 🚀 Featured Projects
-
-### [Project 1: MERN Stack Project](https://github.com/mursidx/project-1)
-A web app built using the MERN stack to solve real-world problems.
-
-- 🔗 [Live Demo](https://your-live-demo.com)  
-- 📖 [Repository](https://github.com/mursidx/project-1)
-
-### [Project 2: DSA Practice Repo](https://github.com/mursidx/project-2)
-My collection of Data Structures & Algorithms practice problems and solutions.
-
-- 📖 [Repository](https://github.com/mursidx/project-2)
-
----
 
 ## 🛠️ Technologies and Tools
 
@@ -62,11 +34,7 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 
 ---
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mursidx&theme=radical)
-
----
 
 ## 📈 GitHub Contributions
 
@@ -81,24 +49,6 @@ My collection of Data Structures & Algorithms practice problems and solutions.
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
 
 ---
-test
-
-## ✨ Inspirational Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-
-![GitHub Followers](https://img.shields.io/github/followers/mursidx?style=social)
-
-
-
-## ✍️ Latest Blog Posts
-
-- [How to build a full-stack application](https://yourblog.com/post1)
-- [Learning Data Structures with C++](https://yourblog.com/post2)
 
 
 
