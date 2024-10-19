@@ -7,7 +7,6 @@
 🔭 I’m currently working on **Open-Source Projects**  
 🌱 I’m learning **MERN, DSA**  
 💬 Ask me about **JavaScript, C++, Web Development**  
-⚡ Fun fact: I love Mountains and poetry!
 ---
 
 ## 📊 GitHub Stats
