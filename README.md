@@ -14,7 +14,7 @@
 
 ![Mursid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursidx&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynchronousJavascriptor&layout=compact&theme=radical)](https://github.com/mursidx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mursidx&layout=compact&theme=radical)](https://github.com/mursidx)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mursidx&theme=radical)
 
